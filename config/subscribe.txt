@@ -1,5 +1,50 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+http://47.120.41.246:8899/xinzb.txt
+https://ghfast.top/github.com/zzmaze/iptv/blob/main/cctv.m3u
+https://ghfast.top/github.com/zzmaze/iptv/blob/main/weishi.m3u
+https://ghfast.top/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u
+https://ghfast.top/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/Live.m3u
+https://ghfast.top/raw.githubusercontent.com/wwb521/live/main/tv.m3u
+https://ghfast.top/raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u
+https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://ghfast.top/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://ghfast.top/github.com/gnodgl/IPTV/blob/master/STV.m3u
+https://ghfast.top/github.com/gnodgl/IPTV/blob/master/IPTV.m3u
+https://ghfast.top/github.com/gnodgl/IPTV/blob/master/IHOT.m3u
+https://ghfast.top/github.com/gnodgl/IPTV/blob/master/CCTV.m3u
+http://migu.hejintv.com/migu01.txt
+https://testingcf.jsdelivr.net/gh/zeee-u/lzh06@main/tv.txt
+https://testingcf.jsdelivr.net/gh/wwb521/live@main/tv.txt
+http://bx.757888.xyz/bxtv.txt
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u
+https://epg.pw/test_channels_hong_kong.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
+https://d.kstore.dev/download/13670/cs.txt
+https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+http://8.138.7.223/fujian.txt
+http://rihou.cc:567/gggg.nzk
+https://10238.kstore.space/hyzy.m3u
+http://ys.my.to/i/?T=肥羊
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/xinghai.txt
+https://live.catvod.com/tv.m3u
+https://ghcy.eu.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+http://httop.top/iptv.m3u
+http://192.168.1.111:5080/phphz.txt
+https://fy.188766.xyz/?ip=113.45.240.129&mima=mianfeidehaimaiqian
+https://php.946985.filegear-sg.me/jackTV.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
 
 
