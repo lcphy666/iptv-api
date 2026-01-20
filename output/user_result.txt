@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 10:39:10,http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
+2026-01-20 18:25:38,http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
 
 📺港澳台频道,#genre#
 
@@ -701,3 +701,29 @@ CETV-4,http://chutouge.top:34022/rtp/239.3.1.56:4120
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-4.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-2.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
+
+央视频道,#genre#
+
+数字频道,#genre#
+
+卫视频道,#genre#
+
+港澳台频道,#genre#
+
+影视频道,#genre#
+
+NEWTV频道,#genre#
+
+iHOT频道,#genre#
+
+SiTV频道,#genre#
+
+数字求索频道,#genre#
+
+儿童频道,#genre#
+
+游戏频道,#genre#
+
+综合频道,#genre#
+
+地方频道,#genre#

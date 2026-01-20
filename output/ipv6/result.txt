@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 10:39:10,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
+2026-01-20 18:25:38,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 
 📺港澳台频道,#genre#
 
@@ -695,3 +695,29 @@ CETV-4,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031126/1.m3
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-4.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-2.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
+
+央视频道,#genre#
+
+数字频道,#genre#
+
+卫视频道,#genre#
+
+港澳台频道,#genre#
+
+影视频道,#genre#
+
+NEWTV频道,#genre#
+
+iHOT频道,#genre#
+
+SiTV频道,#genre#
+
+数字求索频道,#genre#
+
+儿童频道,#genre#
+
+游戏频道,#genre#
+
+综合频道,#genre#
+
+地方频道,#genre#
