@@ -300,6 +300,10 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 宁波生活,http://60.178.149.113:4022/udp/233.50.201.178:5140
 宁波文体,http://60.178.149.113:4022/udp/233.50.201.179:5140
 宁波影视,http://60.178.149.113:4022/udp/233.50.201.180:5140
+ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
+Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+Anhui TV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 宁波少儿,http://60.178.149.113:4022/udp/233.50.201.181:5140
 温州新闻,http://60.178.149.113:4022/udp/233.50.201.87:5140
 绍兴新闻,http://60.178.149.113:4022/udp/233.50.201.156:5140
@@ -314,60 +318,48 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 咪咕视频01,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频02,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕视频03,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
 咪咕视频04,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+CCTV-6 (1080p),http://69.30.245.50/live/cctv6.m3u8
+CCTV-6 [Geo-blocked],https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://192.151.150.154/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
 咪咕视频05,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),http://go.bkpcp.top/mg/cctv13
 咪咕视频06,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 咪咕视频07,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 咪咕视频08,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+🔥低调,https://vd4.bdstatic.com/mda-qiidw79efmjs8aar/576p/h264/1726739405111265219/mda-qiidw79efmjs8aar.mp4
 咪咕体育1,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226046/main.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 咪咕体育2,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226031/main.m3u8
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+🔥使用,https://vd2.bdstatic.com/mda-pk1ccehgau3ywq8q/hd/cae_h264/1699059021606217448/mda-pk1ccehgau3ywq8q.mp4
 咪咕体育3,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225912/main.m3u8
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV-1综合,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
+🔥严禁,https://vd2.bdstatic.com/mda-pdde6x4c56467djm/576p/h264/1681466528778166412/mda-pdde6x4c56467djm.mp4
 咪咕体育4,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225662/main.m3u8
-咪咕体育5,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225756/main.m3u8
-咪咕体育6,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225754/main.m3u8
-咪咕体育7,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225739/main.m3u8
-咪咕体育8,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225760/main.m3u8
-咪咕体育9,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225758/main.m3u8
-咪咕体育10,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225905/main.m3u8
-咪咕体育11,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225653/main.m3u8
-咪咕体育12,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225654/main.m3u8
-咪咕体育13,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225655/main.m3u8
-咪咕体育14,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225658/main.m3u8
-咪咕体育15,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225660/main.m3u8
-咪咕体育16,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225733/main.m3u8
-咪咕体育17,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225648/main.m3u8
-咪咕体育18,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225649/main.m3u8
-咪咕体育19,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225651/main.m3u8
-咪咕体育20,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225652/main.m3u8
-咪咕体育21,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225650/main.m3u8
-咪咕体育22,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225647/main.m3u8
-咪咕体育23,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225639/main.m3u8
-咪咕体育26,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225641/main.m3u8
-咪咕体育27,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225643/main.m3u8
-咪咕体育28,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225645/main.m3u8
-咪咕体育30,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225613/main.m3u8
-咪咕体育31,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225620/main.m3u8
-咪咕体育32,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225619/main.m3u8
-淘剧场,http://222.129.33.14:8888/rtp/239.3.1.95:8001
-淘娱乐,http://222.129.33.14:8888/rtp/239.3.1.100:8001
-淘电影,http://222.129.33.14:8888/rtp/239.3.1.250:8001
-淘精彩,http://222.129.33.14:8888/rtp/239.3.1.178:8001
-4K超清,http://222.129.33.14:8888/rtp/239.3.1.249:8001
-淘电影,http://114.246.180.128:4022/rtp/239.3.1.250:8001
-淘精彩,http://114.246.180.128:4022/rtp/239.3.1.178:8001
-淘剧场,http://114.246.180.128:4022/rtp/239.3.1.95:8001
-淘娱乐,http://114.246.180.128:4022/rtp/239.3.1.100:8001
-4K超清,http://114.246.180.128:4022/rtp/239.3.1.249:8001
-淘电影,http://111.196.131.46:20000/rtp/239.3.1.250:8001
-淘娱乐,http://111.196.131.46:20000/rtp/239.3.1.100:8001
-淘剧场,http://111.196.131.46:20000/rtp/239.3.1.95:8001
-淘精彩,http://111.196.131.46:20000/rtp/239.3.1.178:8001
-4K超清,http://111.196.131.46:20000/udp/239.3.1.249:8001
-湖南娱乐,http://113.218.190.140:8081/tsfile/live/1000_1.m3u8
-湖南娱乐,http://111.8.224.6:9902/tsfile/live/1016_1.m3u8
-湖南娱乐,http://124.231.213.16:9999/tsfile/live/1096_1.m3u8
-湖南娱乐,http://218.76.32.193:9901/tsfile/live/1015_1.m3u8
-湖南娱乐,http://218.77.81.186:9901/tsfile/live/1002_1.m3u8
-湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-湖南娱乐,http://222.243.221.54:9901/tsfile/live/1002_1.m3u8
-湖南教育,http://111.8.224.6:9902/tsfile/live/1015_1.m3u8
+CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
